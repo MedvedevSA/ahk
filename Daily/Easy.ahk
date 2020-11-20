@@ -47,3 +47,4 @@ return
 Run, %userprofile%\AppData\Roaming\Telegram Desktop\Telegram
 return
 
+
